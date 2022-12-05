@@ -1,2 +1,2 @@
 #!/bin/bash
-"Hello, World" >> 0-hello_world
+cat Hello,_World >> 0-hello_world.txt
