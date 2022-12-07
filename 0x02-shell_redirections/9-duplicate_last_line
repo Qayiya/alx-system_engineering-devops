@@ -1,2 +1,2 @@
 #!/bin/bash
-trail --lines=1 iacta >> iacta
+trail -1 iacta >> iacta
