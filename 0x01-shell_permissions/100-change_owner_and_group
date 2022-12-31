@@ -1,0 +1,2 @@
+#!/bin/bash
+chown [VINCENT] USER[:STAFF] FILE(s)
